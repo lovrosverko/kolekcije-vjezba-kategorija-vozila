@@ -1,0 +1,17 @@
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\bin\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.exe
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\bin\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.deps.json
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\bin\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.runtimeconfig.json
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\bin\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.dll
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\bin\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.pdb
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22_23.Form1.resources
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.csproj.GenerateResource.cache
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.AssemblyInfoInputs.cache
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.AssemblyInfo.cs
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.dll
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\refint\kolekcijeVjezbaKategorijeVozila4d_22-23.dll
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.pdb
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\kolekcijeVjezbaKategorijeVozila4d_22-23.genruntimeconfig.cache
+C:\Users\Lovro\source\repos\kolekcijeVjezbaKategorijeVozila4d_22-23\kolekcijeVjezbaKategorijeVozila4d_22-23\obj\Debug\net6.0-windows\ref\kolekcijeVjezbaKategorijeVozila4d_22-23.dll
